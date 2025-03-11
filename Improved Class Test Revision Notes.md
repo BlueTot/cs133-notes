@@ -37,7 +37,9 @@
 - European Court of Justice
 
 **Common Law** - decision of judges in the past over the centuries
+
 **Precedents** - Similar cases decided in the past
+
 **Statute Law** - Law signed by Act of Parliament (i.e. Legislation)
 
 **Chambers of Parliament**
@@ -584,13 +586,13 @@ libaility for defective software - unfair contract terms act 1977
 	- Violations of Obligations - Up to 20m euros, or 4% of global gross revenue
 - **Data breaches must be reported within 72 hours**
 - **There are 7 data protection principles:**
-	- Processing of personal data must be LAWFUL
-	- Purpose of processing must be LEGITIMATE and EXPLICIT
-	- Personal data must be RELEFVANT and not excessive
-	- Personal Data must be ACCURATE and up to date
-	- Must not be kept for longer than necessary
-	- Must be processed in a secure manner
-	- CONTROLLER IS ACCOUNTABLE
+	- **Lawful** - Processing of personal data must be LAWFUL
+	- **Purpose** - Purpose of processing must be LEGITIMATE and EXPLICIT
+	- **Data Minimisation** - Personal data must be RELEVANT and not excessive
+	- **Accuracy** - Personal Data must be ACCURATE and up to date
+	- **Storage** - Must not be kept for longer than necessary
+	- **Security** - Must be processed in a secure manner
+	- **Accountability** - CONTROLLER IS ACCOUNTABLE
 - **There are NO exemptions under GDPR.** 
 - **Exemptions under Data Protection Act 2018**
 	- State things (e.g. police, immigration)
