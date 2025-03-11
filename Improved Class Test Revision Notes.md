@@ -67,6 +67,7 @@
 - European Commission
 
 **EU Regulation** - Self-executing legalisation, takes immediate effect across whole EU
+
 **EU Directive** - Legislative act that sets out a goal that all EU countries must achieve. Must be enacted by individual countries.
 
 **USA Legislature - Congress**
