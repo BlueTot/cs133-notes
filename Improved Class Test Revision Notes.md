@@ -405,6 +405,7 @@ IR35 - tax laws concerning off-payroll working
 
 **Redundancy** - elimination of positions due to business factors
 - **Last in, first out principle**
+- 
 **Dismissal** - termination of individual employee's contract due to misconduct or performance issues
 
 Dismissals are automatically considered to be unfair unless the statutory dismissal procedure has been followed
