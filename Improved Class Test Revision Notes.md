@@ -157,7 +157,9 @@
 6. Charities
 
 **Sole Trader** - individual who runs their own business
+
 **HMRC** - His Majesty's Revenue and Customs (HMRC)
+
 **VAT** - Value added tax
 
 **Partnership** - Relationship between persons carrying on a business with a view of profit
@@ -173,6 +175,7 @@
 - In the event the company incurs debts or other legal liabilities, the owners of the company have no obligation to pay these. 
 
 **Public Limited Company** - can offer shares for sale to the public (ends in plc)
+
 **Private Limited Company** - cannot (ends in ltd)
 
 **Companies House**
@@ -224,9 +227,13 @@
 board of directors run the company
 
 **Off-shoring** = moving activity to other countries
+
 **Outsourcing** = contracting out activities or processes from one business to another
+
 **Takeover** = one company gains control of another by acquiring a majority, if not all of its shares
+
 **Merger** = takeover where both companies come on equal terms, and the merging companies themselves cease to exist
+
 
 ### 4. Structure and Management of Organisations
 
